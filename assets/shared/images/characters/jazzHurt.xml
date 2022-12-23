@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jazzHurt.png">
+<SubTexture name="down0000" x="0" y="0" width="938" height="762" frameX="0" frameY="0" frameWidth="939" frameHeight="763" />
+<SubTexture name="down0001" x="938" y="0" width="938" height="757" frameX="0" frameY="-1" frameWidth="939" frameHeight="763" />
+<SubTexture name="idle0000" x="0" y="762" width="938" height="757" frameX="0" frameY="0" frameWidth="938" frameHeight="762" />
+<SubTexture name="left0000" x="938" y="762" width="929" height="743" frameX="0" frameY="-2" frameWidth="941" frameHeight="761" />
+<SubTexture name="left0001" x="0" y="1519" width="939" height="746" frameX="0" frameY="-2" frameWidth="941" frameHeight="761" />
+<SubTexture name="right0000" x="939" y="1519" width="954" height="749" frameX="-3" frameY="-1" frameWidth="957" frameHeight="761" />
+<SubTexture name="right0001" x="0" y="2268" width="947" height="749" frameX="-2" frameY="-1" frameWidth="957" frameHeight="761" />
+<SubTexture name="up0000" x="947" y="2268" width="939" height="750" frameX="0" frameY="0" frameWidth="939" frameHeight="767" />
+<SubTexture name="up0001" x="0" y="3018" width="939" height="749" frameX="0" frameY="-5" frameWidth="939" frameHeight="767" />
+</TextureAtlas>

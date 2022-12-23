@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jazzTut.png">
+<SubTexture name="cockBack0000" x="0" y="0" width="363" height="691" frameX="-1" frameY="0" frameWidth="365" frameHeight="691" />
+<SubTexture name="cockBack0001" x="363" y="0" width="344" height="686" frameX="-3" frameY="-5" frameWidth="365" frameHeight="691" />
+<SubTexture name="cockBack0002" x="707" y="0" width="343" height="686" frameX="-3" frameY="-5" frameWidth="365" frameHeight="691" />
+<SubTexture name="down0000" x="1050" y="0" width="474" height="676" frameX="-22" frameY="-14" frameWidth="497" frameHeight="690" />
+<SubTexture name="down0001" x="1524" y="0" width="472" height="678" frameX="-24" frameY="-12" frameWidth="497" frameHeight="690" />
+<SubTexture name="down0002" x="1996" y="0" width="480" height="681" frameX="-17" frameY="-9" frameWidth="497" frameHeight="690" />
+<SubTexture name="downShoot0000" x="0" y="691" width="739" height="551" frameX="-198" frameY="-135" frameWidth="938" frameHeight="695" />
+<SubTexture name="downShoot0001" x="739" y="691" width="936" height="550" frameX="-2" frameY="-136" frameWidth="938" frameHeight="695" />
+<SubTexture name="downShoot0002" x="1675" y="691" width="616" height="549" frameX="-313" frameY="-137" frameWidth="938" frameHeight="695" />
+<SubTexture name="idle0000" x="2291" y="691" width="347" height="690" frameX="0" frameY="0" frameWidth="497" frameHeight="690" />
+<SubTexture name="left0000" x="2638" y="691" width="446" height="680" frameX="-39" frameY="-8" frameWidth="502" frameHeight="689" />
+<SubTexture name="left0001" x="3084" y="691" width="465" height="679" frameX="-34" frameY="-9" frameWidth="502" frameHeight="689" />
+<SubTexture name="left0002" x="0" y="1381" width="472" height="680" frameX="-30" frameY="-8" frameWidth="502" frameHeight="689" />
+<SubTexture name="leftShoot0000" x="472" y="1381" width="620" height="690" frameX="-186" frameY="-3" frameWidth="806" frameHeight="693" />
+<SubTexture name="leftShoot0001" x="1092" y="1381" width="797" height="690" frameX="-3" frameY="-3" frameWidth="806" frameHeight="693" />
+<SubTexture name="leftShoot0002" x="1889" y="1381" width="344" height="689" frameX="-443" frameY="-4" frameWidth="806" frameHeight="693" />
+<SubTexture name="missRight0000" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0001" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0002" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0003" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0004" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0005" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0006" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0007" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0008" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0009" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="missRight0010" x="2233" y="1381" width="529" height="683" frameX="0" frameY="0" frameWidth="534" frameHeight="683" />
+<SubTexture name="right0000" x="2762" y="1381" width="529" height="684" frameX="0" frameY="-6" frameWidth="529" frameHeight="690" />
+<SubTexture name="right0001" x="0" y="2071" width="527" height="683" frameX="-1" frameY="-7" frameWidth="529" frameHeight="690" />
+<SubTexture name="right0002" x="527" y="2071" width="521" height="683" frameX="-3" frameY="-7" frameWidth="529" frameHeight="690" />
+<SubTexture name="shootRight0000" x="1048" y="2071" width="603" height="641" frameX="-198" frameY="-46" frameWidth="828" frameHeight="690" />
+<SubTexture name="shootRight0001" x="1651" y="2071" width="802" height="643" frameX="-2" frameY="-44" frameWidth="828" frameHeight="690" />
+<SubTexture name="shootRight0002" x="2453" y="2071" width="388" height="653" frameX="-440" frameY="-34" frameWidth="828" frameHeight="690" />
+<SubTexture name="up0000" x="2841" y="2071" width="449" height="686" frameX="-8" frameY="-3" frameWidth="459" frameHeight="689" />
+<SubTexture name="up0001" x="0" y="2757" width="447" height="683" frameX="-9" frameY="-6" frameWidth="459" frameHeight="689" />
+<SubTexture name="up0002" x="447" y="2757" width="455" height="682" frameX="-2" frameY="-7" frameWidth="459" frameHeight="689" />
+<SubTexture name="upShoot0000" x="902" y="2757" width="519" height="697" frameX="-198" frameY="-36" frameWidth="749" frameHeight="738" />
+<SubTexture name="upShoot0001" x="1421" y="2757" width="712" height="698" frameX="-2" frameY="-35" frameWidth="749" frameHeight="738" />
+<SubTexture name="upShoot0002" x="2133" y="2757" width="357" height="733" frameX="-391" frameY="0" frameWidth="749" frameHeight="738" />
+</TextureAtlas>
