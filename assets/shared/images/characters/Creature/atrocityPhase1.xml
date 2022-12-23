@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="atrocityPhase1.png">
+<SubTexture name="down0000" x="445" y="858" width="453" height="381" frameX="-46" frameY="-44" frameWidth="499" frameHeight="435" />
+<SubTexture name="down0001" x="0" y="858" width="445" height="388" frameX="-51" frameY="-37" frameWidth="499" frameHeight="435" />
+<SubTexture name="idle0000" x="795" y="0" width="460" height="423" frameX="-20" frameY="0" frameWidth="480" frameHeight="432" />
+<SubTexture name="left0000" x="0" y="435" width="394" height="423" frameX="-41" frameY="-7" frameWidth="480" frameHeight="439" />
+<SubTexture name="left0001" x="394" y="435" width="392" height="423" frameX="-50" frameY="-7" frameWidth="480" frameHeight="439" />
+<SubTexture name="right0000" x="0" y="0" width="396" height="435" frameX="-78" frameY="0" frameWidth="480" frameHeight="444" />
+<SubTexture name="right0001" x="396" y="0" width="399" height="434" frameX="-68" frameY="-1" frameWidth="480" frameHeight="444" />
+<SubTexture name="up0000" x="786" y="435" width="411" height="404" frameX="-35" frameY="-20" frameWidth="480" frameHeight="433" />
+<SubTexture name="up0001" x="1255" y="0" width="422" height="400" frameX="-29" frameY="-24" frameWidth="480" frameHeight="433" />
+</TextureAtlas>
