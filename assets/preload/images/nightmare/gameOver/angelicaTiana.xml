@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angelicaTiana.png">
+<SubTexture name="baddiesLaugh0000" x="0" y="0" width="964" height="923" frameX="-3" frameY="0" frameWidth="972" frameHeight="923" />
+</TextureAtlas>
