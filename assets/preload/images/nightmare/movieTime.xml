@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="movieTime.png">
+<SubTexture name="intoMovie0000" x="0" y="0" width="99" height="59" frameX="0" frameY="-147" frameWidth="1985" frameHeight="1442" />
+</TextureAtlas>
